@@ -2,7 +2,7 @@
 	"CorSeguimiento": [
 		{
 			"id": 1,
-			"OT Padre": 18175199,
+			"OTPadre": 18175199,
 			"CM": 24869400212,
 			"DiaAgenda": "12/05/2022",
 			"TipoTrabajo": "VISITA",
@@ -14,7 +14,7 @@
 		},
 		{
 			"id": 2,
-			"OT Padre": 18175199,
+			"OTPadre": 18175199,
 			"CM": 24869400212,
 			"DiaAgenda": "12/05/2022",
 			"TipoTrabajo": "VISITA",
@@ -25,7 +25,7 @@
 		},
 		{
 			"id": 3,
-			"OT Padre": 18175199,
+			"OTPadre": 18175199,
 			"CM": 24869400212,
 			"DiaAgenda": "12/05/2022",
 			"TipoTrabajo": "VISITA",

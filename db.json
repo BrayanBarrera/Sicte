@@ -1,0 +1,41 @@
+{
+	"CorSeguimiento": [
+		{
+			"id": 1,
+			"OT Padre": 18175199,
+			"CM": 24869400212,
+			"DiaAgenda": "12/05/2022",
+			"TipoTrabajo": "VISITA",
+			"Trabajo": "VDOD",
+			"Cantidad": "1",
+			"NombreResponsable": "FREDY ORLANDO SANTIAGO RODRIGUEZ",
+			"Cedula": 1033699721
+
+		},
+		{
+			"id": 2,
+			"OT Padre": 18175199,
+			"CM": 24869400212,
+			"DiaAgenda": "12/05/2022",
+			"TipoTrabajo": "VISITA",
+			"Trabajo": "VDOD",
+			"Cantidad": "1",
+			"NombreResponsable": "FREDY ORLANDO SANTIAGO RODRIGUEZ",
+			"Cedula": 1033699721
+		},
+		{
+			"id": 3,
+			"OT Padre": 18175199,
+			"CM": 24869400212,
+			"DiaAgenda": "12/05/2022",
+			"TipoTrabajo": "VISITA",
+			"Trabajo": "VDOD",
+			"Cantidad": "1",
+			"NombreResponsable": "FREDY ORLANDO SANTIAGO RODRIGUEZ",
+			"Cedula": 1033699721
+		}
+	],
+	"profile": {
+		"name": "BrayanBarrera"
+	}
+}
